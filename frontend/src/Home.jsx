@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Header from './components/Header'
 import Editor from './components/Editor'
-import ProblemsPage from "./components/Problems/problems";// Import the Problems component
+import ProblemsPage from "./components/Problems/problems";
 
 
 function Home() {
